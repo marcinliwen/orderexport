@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>orderexport</name>
+	<displayName><![CDATA[orderexport]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Eksport zamówień z wyborem przedziału daty]]></description>
+	<author><![CDATA[MarcinL]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
